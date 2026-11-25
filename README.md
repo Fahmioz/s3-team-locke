@@ -1,13 +1,15 @@
 # Group 8 Team Locke
 
 **Members:**
+
 - [Matric No. 1 : 2414551]
 - [Matric No. 2 : 2411601]
-
-| matric | shop | feature | folder |
-| :--- | :--- | :--- | :--- |
-| 2414551 | 404 Kafe | Feature Name** (`2414551-kafe-404`) | `public/api` |
-| 2411601 | Ayam Gepuk King | Feature Name** (`2411601-ayam-gepuk-king`) | `public/api` |
+- [Matric No. 3 : 2415935]
+  | matric | shop | feature | folder |
+  | :--- | :--- | :--- | :--- |
+  | 2414551 | 404 Kafe | Feature Name** (`2414551-kafe-404`) | `public/api` |
+  | 2411601 | Ayam Gepuk King | Feature Name** (`2411601-ayam-gepuk-king`) | `public/api` |
+  | 2415935 | Lim Chinese Muslim Restaurant| Feature Name\*\* (`2415935-chinese-restaurant`) | `public/api`|
 
 # React + Vite
 
@@ -25,5 +27,3 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-
-

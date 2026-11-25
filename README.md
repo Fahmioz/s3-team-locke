@@ -18,12 +18,15 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Vendor credits
 
-The first vendor is my own shop:
+# Group 8
 
-- **404 Kafe** — matric number `2414551`
+**Members:**
+- 2414551
+- 2413839
+- 2411601
 
-The other two vendors are copied from classmates and are credited by their
-matric-number prefixes:
-
-- **The Savory Bakery** — classmate `2413839` Areez Farhan
-- **Ayam Gepuk King** — classmate `2411601` Raja Muhammad Annas
+| matric | shop | feature | folder |
+| :--- | :--- | :--- | :--- |
+| 2414551 | 404 Kafe | [Feature name] (`2414551-kafe-404`) | `public/api` |
+| 2413839 | The Savory Bakery | [Feature name] | `[folder path]` |
+| 2411601 | Ayam Gepuk King | [Feature name] | `[folder path]` |

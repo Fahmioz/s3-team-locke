@@ -1,4 +1,4 @@
-# Group 8
+# Group 8 Team Locke
 
 **Members:**
 - [Matric No. 1 : 2414551]

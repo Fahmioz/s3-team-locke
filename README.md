@@ -1,3 +1,14 @@
+# Group 8 Team Locke
+
+**Members:**
+- [Matric No. 1 : 2414551]
+- [Matric No. 2 : 2411601]
+
+| matric | shop | feature | folder |
+| :--- | :--- | :--- | :--- |
+| 2414551 | 404 Kafe | Feature Name** (`2414551-kafe-404`) | `public/api` |
+| 2411601 | Ayam Gepuk King | Feature Name** (`2411601-ayam-gepuk-king`) | `public/api` |
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -16,17 +27,3 @@ The React Compiler is not enabled on this template because of its impact on dev 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 
-## Vendor credits
-
-# Group 8
-
-**Members:**
-- 2414551
-- 2413839
-- 2411601
-
-| matric | shop | feature | folder |
-| :--- | :--- | :--- | :--- |
-| 2414551 | 404 Kafe | [Feature name] (`2414551-kafe-404`) | `public/api` |
-| 2413839 | The Savory Bakery | [Feature name] | `[folder path]` |
-| 2411601 | Ayam Gepuk King | [Feature name] | `[folder path]` |
